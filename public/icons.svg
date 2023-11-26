@@ -1,0 +1,37 @@
+
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="arrow-up">
+    <title>arrow-up</title>
+    <path fill="transparent" stroke-linejoin="round" stroke-linecap="round" stroke-width="2.56" stroke="currentColor" d="M16 24.96V7.04M7.04 16L16 7.04 24.96 16"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 32" id="github">
+    <title>github</title>
+    <path stroke-linejoin="round" stroke-linecap="round" stroke-width="2.667" stroke="currentColor" d="M12.667 25.333C6 27.333 6 22 3.334 21.333m18.666 8v-5.16a4.495 4.495 0 0 0-1.253-3.48c4.187-.467 8.587-2.053 8.587-9.333a7.249 7.249 0 0 0-2-5 6.76 6.76 0 0 0-.12-5.027s-1.573-.467-5.213 1.973a17.844 17.844 0 0 0-9.333 0C9.028.866 7.455 1.333 7.455 1.333a6.76 6.76 0 0 0-.12 5.027 7.254 7.254 0 0 0-2 5.04c0 7.227 4.4 8.813 8.587 9.333a4.486 4.486 0 0 0-1.253 3.44v5.16" fill="transparent"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="link2">
+    <title>link2</title>
+    <path stroke-linejoin="round" stroke-linecap="round" stroke-width="2.56" stroke="currentColor" d="M19.84 9.6h3.84a6.41 6.41 0 0 1 4.525 1.874 6.394 6.394 0 0 1 1.387 6.974 6.41 6.41 0 0 1-3.463 3.463 6.392 6.392 0 0 1-2.449.487h-3.84m-7.68.002H8.32a6.41 6.41 0 0 1-4.525-1.874A6.4 6.4 0 0 1 8.32 9.601h3.84M10.88 16h10.24" fill="transparent"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 32" id="linkedin">
+    <title>linkedin</title>
+    <path stroke-linejoin="round" stroke-linecap="round" stroke-width="2.667" stroke="currentColor" d="M22 10.667a8 8 0 0 1 8 8V28h-5.333v-9.333A2.67 2.67 0 0 0 22 16a2.67 2.67 0 0 0-2.667 2.667V28H14v-9.333a8 8 0 0 1 8-8zM8.667 12H3.334v16h5.333V12zM6 8a2.667 2.667 0 1 0 0-5.334A2.667 2.667 0 0 0 6 8z" fill="transparent"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="moon">
+    <title>Vector</title>
+    <path stroke-linejoin="round" stroke-linecap="round" stroke-width="3.2" stroke="currentColor" d="M30.4 17.264a14.402 14.402 0 0 1-17.473 12.73 14.408 14.408 0 0 1-10.921-10.92A14.396 14.396 0 0 1 7.253 4.548a14.402 14.402 0 0 1 7.483-2.947c-1.595 2.157-2.362 4.815-2.162 7.49s1.353 5.19 3.249 7.087A11.203 11.203 0 0 0 30.4 17.265z" fill="transparent"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="send">
+    <title>send</title>
+    <path stroke-linejoin="round" stroke-linecap="round" stroke-width="2.56" stroke="currentColor" d="M28.8 3.2L14.72 17.28M28.8 3.2l-8.96 25.6-5.12-11.52L3.2 12.16 28.8 3.2z" fill="transparent"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="sun">
+    <title>sun</title>
+    <path stroke-linejoin="round" stroke-linecap="round" stroke-width="2.667" stroke="currentColor" d="M16 22.667a6.667 6.667 0 1 0 0-13.334 6.667 6.667 0 0 0 0 13.334zm0-21.334V4m0 24v2.667M5.627 5.627L7.52 7.52m16.96 16.96l1.893 1.893M1.333 16H4m24 0h2.667M5.627 26.373L7.52 24.48M24.48 7.52l1.893-1.893" fill="transparent"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 32" id="twitter">
+    <title>twitter</title>
+    <path stroke-linejoin="round" stroke-linecap="round" stroke-width="2.667" stroke="currentColor" d="M31.333 4a14.542 14.542 0 0 1-4.187 2.04 5.975 5.975 0 0 0-6.637-1.661 5.981 5.981 0 0 0-3.843 5.661v1.333a14.211 14.211 0 0 1-12-6.04s-5.333 12 6.667 17.333A15.519 15.519 0 0 1 2 25.333C14 32 28.667 25.333 28.667 10a5.966 5.966 0 0 0-.107-1.107A10.288 10.288 0 0 0 31.333 4z" fill="transparent"></path>
+  </symbol>
+</svg>
+
+
