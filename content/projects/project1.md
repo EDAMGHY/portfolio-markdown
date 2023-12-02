@@ -1,11 +1,13 @@
 ---
 id: 1
-title: Project Number 1
-image: "https://source.unsplash.com/random?tokyo"
-url: "https://google.com"
+title: TornadoCSS, A CSS Framework
+image: ""
+url: "https://tornadocss.netlify.app/"
+code: "https://github.com/EDAMGHY/tornadocss"
 tags:
-  - NextJS
-  - Tailwind
+  - HTML
+  - CSS
+  - SCSS
 ---
 
 Project description goes here.

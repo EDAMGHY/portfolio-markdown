@@ -8,14 +8,15 @@ const projectsDir = path.join(process.cwd(), "content/projects");
 export async function getProjects() {
   const data = await getFromMarkdown(projectsDir);
 
-  let projects = data.map((project) => {
+  let projects = data.map((project, index) => {
     const { data, content } = project;
     return {
-      id: data.id,
-      title: data.title,
-      image: data.image,
-      url: data.url,
-      tags: data.tags,
+      id: data?.id || index,
+      title: data?.title || null,
+      image: data?.image || null,
+      url: data?.url || null,
+      code: data?.code || null,
+      tags: data?.tags || [],
       content,
     };
   });
