@@ -12,7 +12,7 @@ export async function getSocials() {
     return {
       id: data.id,
       title: data.title,
-      icon: data.image,
+      icon: data.icon,
       url: data.url,
       content,
     };
